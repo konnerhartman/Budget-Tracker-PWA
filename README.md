@@ -16,13 +16,13 @@ This budget tracking application will allow a user to add expenses and deposits 
 - [Questions](#questions)
 
 ## Screencapture
-![Gif](./public/assets/.gif)
+![Gif](./public/assets/Budget-Tracker.gif)
 
 ## Installation
 There is no instalation process for this app as it is loaded to a live server.
 
 ## Usage
-
+This app will be used by the user to help track their budget. The user can add or subtract funds and these events will populate a list and a graph.
 
 ## License
 MIT
